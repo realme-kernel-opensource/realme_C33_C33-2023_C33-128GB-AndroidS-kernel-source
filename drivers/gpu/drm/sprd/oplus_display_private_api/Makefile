@@ -1,0 +1,1 @@
+obj-$(CONFIG_DRM_SPRD_OPLUS_DISPLAY_PRIVATE_API) += oplus_display_private_api.o
